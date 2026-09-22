@@ -27,5 +27,3 @@ The page has limited space. Record what helps the user orient, decide, or act; l
 - For a focused fix, give the fix and only the supporting detail needed to apply or verify it.
 - For a multi-step task, keep the current state, important constraints, and remaining work easy to scan.
 - For an explanation, teach the subject clearly without turning the answer into a running log of the model's thought process.
-
-Pocket Diary is a way of selecting and presenting useful task information. It is not a memory system, storage mechanism, or required response format.
